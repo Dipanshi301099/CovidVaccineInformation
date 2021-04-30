@@ -31,3 +31,14 @@ Create a web page, showing vaccine details on search - till evening 5 PM
 29/04/2021
 Create login page and signup page
 Connect both the pages to database and home page
+
+30/04/2021
+Understant session concept and implement Session in project
+Add confirm password box
+Existing search should work as it is
+Add a chech box
+Search text in column (name, manufacture place and manufacture details) as substring named as all search in search vaccine page
+eg PAT -- name PAT or Manufacture PAT
+Details should be displayed based on search.
+No data should display if 'all search' is active(check box is checked) and no search item is found
+Lisi of list in case of more than one vaccine details are stored.
