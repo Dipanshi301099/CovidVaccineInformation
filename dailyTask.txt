@@ -41,4 +41,10 @@ Search text in column (name, manufacture place and manufacture details) as subst
 eg PAT -- name PAT or Manufacture PAT
 Details should be displayed based on search.
 No data should display if 'all search' is active(check box is checked) and no search item is found
-Lisi of list in case of more than one vaccine details are stored.
+List of list in case of more than one vaccine details are stored.
+
+01/05/2021
+Masking of password
+Implementing login logout using session
+Presentation of session
+Update details of vaccine
