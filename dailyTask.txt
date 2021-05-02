@@ -44,7 +44,7 @@ No data should display if 'all search' is active(check box is checked) and no se
 List of list in case of more than one vaccine details are stored.
 
 01/05/2021
-Masking of password
-Implementing login logout using session
-Presentation of session
-Update details of vaccine
+Masking of password                              Done
+Implementing login logout using session          Not Done
+Presentation of session                          Not Done
+Update details of vaccine                        Not Done
