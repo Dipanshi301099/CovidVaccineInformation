@@ -1,0 +1,21 @@
+create table aboutVac
+(
+vac_name varchar(30),
+vac_detail varchar (50),
+vac_manufacture_place varchar(30),
+vac_manufacture_date date,
+vac_expiry date
+);
+INSERT INTO aboutVac (vac_name, vac_detail, vac_manufacture_place, vac_manufacture_date, vac_expiry date) VALUES('coronil', 'bypatanjali', 'india', '2020-01-25', '2030-12-30');
+select * from aboutVac;
+
+create table eachVacdetail
+(
+vac_name varchar(30),
+vac_cities varchar(50),
+vac_startdate date,
+vac_enddate date,
+vac_quantity int
+);
+INSERT INTO eachVacdetail (vac_name, vac_cities, vac_startdate date, vac_enddate date, vac_quantity) VALUES('coronil', 'Pune', '2021-03-01', '2021-03-08', '2');
+select * from eachVacdetail;
